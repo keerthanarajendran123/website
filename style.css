@@ -7,8 +7,10 @@ body
 }
 .services 
 {
-    margin: 90px;
+    margin: 48px;
     text-align: center;
+    position: relative;
+    right: 37px;
 }
 h1
 {
@@ -61,6 +63,16 @@ h1:after
   position: relative;
   left: 3px;
 }
+#i-cloud{
+    right: 5px;
+    bottom: 12px;
+    position: relative;
+}
+#i-users{
+    right: 5px;
+    bottom: 12px;
+    position: relative;
+}
 .footer {
     background-color: black;
     color: white;
@@ -86,4 +98,3 @@ h1:after
     margin-bottom:0;
     line-height: 30px;
   }
-
